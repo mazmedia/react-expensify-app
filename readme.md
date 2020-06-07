@@ -4,7 +4,7 @@ Get your **expenses** under *flow*
 
 ## Website
 
-[`maz-budget-app.herokuapp.com`](https://maz-budget-app.herokuapp.com)
+[`maz-expensify.herokuapp.com`](https://maz-expensify.herokuapp.com)
 
 ## Expensifying
 

@@ -1,5 +1,4 @@
-# home
 node_modules/
-
-# main
 public/dist/
+.env.test
+.env.development

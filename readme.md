@@ -1,4 +1,4 @@
-# Budget App
+# Expensify
 
 Get your **expenses** under *flow*
 
